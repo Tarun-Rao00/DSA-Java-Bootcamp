@@ -1,3 +1,5 @@
+package Easy;
+
 public class FindNumberEvenDigitNumber {
     public static void main(String[] args) {
 

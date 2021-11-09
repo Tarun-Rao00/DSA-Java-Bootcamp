@@ -1,3 +1,5 @@
+package Easy;
+
 import java.util.Arrays;
 
 //Question-1304 - Find N Unique integers sum up to zero (https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
