@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/04-functions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05-arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06-searching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-sorting" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.vscode" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
